@@ -7,7 +7,6 @@ __pycache__/
 dist/
 build/
 *.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
@@ -41,7 +40,6 @@ build/
 *.zip
 *.pyz
 *.html
-*.txt
 localpycs/
 
 # Environment files
